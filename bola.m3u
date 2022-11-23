@@ -1,9 +1,5 @@
 #EXTM3U
-
-#EXTINF:0,P14L4 DUN14
-
+#EXTINF:0,Bola 1
 https://griomreavigremant654.s3.amazonaws.com:443/redzone2_720p60.m3u8
-
-#EXTINF:0,P14L4 DUN14 2
+#EXTINF:0,Bola 2
 https://griomreavigremant654.s3.amazonaws.com:443/redzone2_480p30.m3u8
-
