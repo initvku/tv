@@ -3,5 +3,24 @@
 https://griomreavigremant654.s3.amazonaws.com:443/redzone2_720p60.m3u8
 #EXTINF:0,Bola 2
 https://griomreavigremant654.s3.amazonaws.com:443/redzone2_480p30.m3u8
-#EXTINF:0,Bola 3 b
-https://wswanata.azureedge.net/live/FS1/chunks.m3u8
+
+#EXTINF:0,Server 1
+rtmp://server1.53505.muhamadaqilfarhan.gratis.kawaguchimaeda.com/live/test
+#EXTINF:0,Server 2
+rtmp://server2.53505.muhamadaqilfarhan.gratis.kawaguchimaeda.com/live/test
+#EXTINF:0,Server 3
+rtmp://server3.53505.muhamadaqilfarhan.gratis.kawaguchimaeda.com/live/test
+#EXTINF:0,Server 4
+rtmp://server4.53505.muhamadaqilfarhan.gratis.kawaguchimaeda.com/live/test
+#EXTINF:0,Server 5
+rtmp://server5.53505.muhamadaqilfarhan.gratis.kawaguchimaeda.com/live/test
+#EXTINF:0,Server 6
+rtmp://server6.53505.muhamadaqilfarhan.gratis.kawaguchimaeda.com/live/test
+#EXTINF:0,Server 7
+rtmp://server7.53505.muhamadaqilfarhan.gratis.kawaguchimaeda.com/live/test
+#EXTINF:0,Server 8
+rtmp://server8.53505.muhamadaqilfarhan.gratis.kawaguchimaeda.com/live/test
+#EXTINF:0,Server 9
+rtmp://server9.53505.muhamadaqilfarhan.gratis.kawaguchimaeda.com/live/test
+#EXTINF:0,Server 10
+rtmp://server10.53505.muhamadaqilfarhan.gratis.kawaguchimaeda.com/live/test
